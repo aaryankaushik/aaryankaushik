@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I am Aaryan 👋
 
-<!--
-**aaryankaushik/aaryankaushik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently pursuing Master's in Statistics and Data Science at Hasselt University.
+- 🌱 I am a Data Science enthusiast.
+- 📫 How to reach me: aaryankaushik00@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=aaryankaushik&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=prussian%22" />
+    </td>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryankaushik&show_icons=true&locale=en&layout=compact&theme=jolly"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryankaushik&theme=algolia&hide_border=false" />
+    </td>
+  </tr>
+</table>
+
